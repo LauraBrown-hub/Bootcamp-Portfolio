@@ -1,11 +1,19 @@
 # Bootcamp - Week 5
 This is theWorkbook for Week 5 of a course delivered by Just IT, completed by Laura Brown.
 
-There is no week 4 for this coursework
+Note: There is no week 4 for this coursework
 
 This week focuses heavily on the practical application of data manipulation and analysis using Python, specifically leveraging the Pandas library for data frames and the Jupyter Notebook environment.
 
 ## Key Topics and Skills Demonstrated
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 ### Python & Jupyter Notebook Fundamentals
 
@@ -55,5 +63,8 @@ This final section showcases analytical skills, the ability to derive new inform
 - **Exporting Data**: Saving the cleaned and processed DataFrame into a new `.csv` file.
 
 ## Portfolio Value
+
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 This workbook provides concrete evidence of hands-on skills in the entire data processing pipeline using Python (Pandas): from data loading and initial inspection to rigorous cleaning, feature creation, statistical analysis, hypothesis testing, and final data visualisation/export. It demonstrates proficiency with industry-standard tools for data wrangling.

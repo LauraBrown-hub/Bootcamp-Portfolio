@@ -35,13 +35,28 @@ This is a comprehensive set of SQL queries run against a `world_db` dataset, sho
 
 - **Filtering and Searching**: Finding cities with a population greater than 2,000,000, cities with populations between 500,000 and 1,000,000, cities containing "New" (`LIKE "%NEW%"`), and cities starting with "Be" (`LIKE "BE%"`).
 
+![alt text](image-2.png)
+
+![alt text](image-4.png)
+
 - **Sorting and Limiting**: Identifying the country with the highest life expectancy, finding the most and least populated cities, and retrieving a specific range of rows using `LIMIT` and `OFFSET` (rows 31–40).
+
+![alt text](image-3.png)
 
 - **Joins**: Using `INNER JOIN` to count cities in a country, finding the capital of Spain, and listing cities in Europe.
 
+![alt text](image.png)
+
 - **Complex Calculations**: Calculating population density and finding countries with low density, and calculating GDP per capita.
 
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
 ## Portfolio Value
+![alt text](image-1.png)
 
 This workbook serves as excellent evidence of strong, fundamental data management and SQL skills. It demonstrates the ability to:
 

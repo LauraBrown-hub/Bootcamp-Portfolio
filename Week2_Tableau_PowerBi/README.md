@@ -14,12 +14,22 @@ It covers a range of tasks focusing on data analysis, visualisation, and using s
 - Conducting analysis on a Spotify dataset to find trends and key information for organisational use.
 - Conducting analysis on a Health dataset to find trends and reflecting on how this data could support NHS decision-making.
 
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
 ### Power BI Labs
 
 - Get Data in Power BI Desktop.
 - Load Transformed Data in Power BI Desktop.
 - Design a Report in Power BI Desktop.
 - Create a Power BI Dashboard.
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-8.png)
 
 ## Portfolio Value
 

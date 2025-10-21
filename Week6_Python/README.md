@@ -7,33 +7,63 @@ This is the Workbook for Week 6 from a course delivered by Just IT. The content 
 
 **Logic and Control Flow**: Successfully implements the classic FizzBuzz problem using a `for` loop, `if`/`elif`/`else` statements, and the modulus operator (`%`) in Python, demonstrating proficiency in basic programming logic, iteration, and conditional statements.
 
+![alt text](image.png)
+![alt text](image-1.png)
+
 ### Advanced Data Wrangling with Pandas
 
 This section demonstrates a comprehensive ability to manage and analyse tabular data using a `student.csv` dataset:
 
 - **Data Loading and Inspection**: Reads a CSV file into a Pandas DataFrame and uses functions like `head()`, `info()`, and `describe()` to explore the data's structure, identify data types, and generate summary statistics.
 
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 - **Indexing and Slicing**: Efficiently selects specific columns (name, mark) and filters rows based on categorical criteria (e.g., selecting all rows where class is 'Four').
+
+![alt text](image-4.png)
 
 - **Feature Engineering & Manipulation**:
   - Creates a new calculated column (passed) using a Lambda function to indicate a pass/fail status based on a score threshold (mark >= 60).
   - Renames a column (mark to score) and drops a column (passed), demonstrating efficient DataFrame modification.
+
+  ![alt text](image-5.png)
 
 - **Aggregation and Grouping**: Uses the `groupby()` function to calculate and analyse descriptive statistics across different categories:
   - Calculates the mean score grouped by class.
   - Counts the number of students in each class.
   - Calculates the average score for each gender.
 
+  ![alt text](image-6.png)
+
 - **Advanced Analysis**:
   - Creates a pivot table to aggregate data, displaying the mean score by class (rows) and gender (columns).
   - Applies conditional logic to categorise students into letter grades ('A', 'B', 'C', 'D') using the `pd.cut()` function based on score ranges.
   - Sorts the DataFrame by score in descending order.
 
+  ![alt text](image-7.png)
+
 - **Data Visualisation and Export**: Creates basic visualisations (e.g., a bar chart of gender counts and a histogram of scores) using visualisation libraries (implied Matplotlib/Seaborn) and exports the final, processed DataFrame to a new CSV file (`Students_Updated.csv`).
+![alt text](image-8.png)
 
 ### Real-World Data Application
 
 Applies data exploration skills to a global dataset, loading the 'GDP (nominal) per Capita.csv' to analyse macroeconomic data, including selecting specific columns (Country/Territory and UN_Region) and inspecting the first 10 rows.
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
 
 ## Portfolio Value
 

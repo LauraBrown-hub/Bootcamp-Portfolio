@@ -1,5 +1,5 @@
 # Bootcamp - Week 3
-This is theWorkbook for Week 3 of a course delivered by Just IT, completed by Laura Brown.
+This is the Workbook for Week 3 of a course delivered by Just IT, completed by Laura Brown.
 
 This week's content was heavily focused on foundational database concepts and intensive SQL practical application.
 
